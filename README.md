@@ -10,4 +10,4 @@ Els Moduls que e fet son:
 
 Els meus estudis de DAM els vaig fer a l'institut Nicolau Copernic
 
-<img src="https://copernic.cat/images/logos/logo-header.png" alt="Logo Nicolau copernic" width="110">
+[<img src="https://copernic.cat/images/logos/logo-header.png" alt="Logo Nicolau copernic" width="110">](https://copernic.cat)
