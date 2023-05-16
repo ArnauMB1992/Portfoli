@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokio 2020>
+ <edición num=32>
+    <pais>JAPON</pais>
+    <web>https://olympics.com/es/olympic-games/tokyo-2020</web>
+    <participants>
+        <Pais> España 
+        <Deportistas num=325/>
+        </Pais>
+        <Pais> Ecuador
+        <Deportistas num=48/>
+        </Pais>
+        <Pais> Alemania 
+        <Deportistas num=425/>
+        </Pais>
+        <Pais> Bulgaria
+        <Deportistas num=42/>
+        </Pais>
+        <Pais > Brasil
+        <Deportistas num=302/>
+        </Pais>
+        <Pais > China 
+        <Deportistas num=406/>
+        </Pais>
+    </participants>
+    <obertura data=23/7/2020></obertura>
+    <clausura data=8/08/2021></clausura>
+    <Sede nom=COI edifici=Hotel Imperial ciutat=Chiyoda-ku tipus=Hotel>
+        <funcionalitat>Está encargado de supervisar y administrar todo lo concerniente a los Juegos Olímpicos</funcionalitat>
+    </sede>
+    <Sede nom=Villa Olímpica edifici=Harumi Futō ciutat=Chūō  tipus=Villa>
+        <funcionalitat>Grupo de edificios que tenía algunos cuartos para alojar a los atletas y otros edificios para albergar los materias primas necesarias para los juegos.</funcionalitat>
+    </sede>
+    <Sede nom=Centro de Medios edifici=Tokyo Big Sight ciutat=Ariake tipus=centro de convenciones>
+        <funcionalitat>Encargada de la labor de producir y realizar todas las imágenes de los Juegos Olímpicos</funcionalitat>
+    </sede>
+    <Sede nom=Tokyo Big Sight edifici=Tokyo Big Sight ciutat=Ariake tipus=centro de convenciones>
+        <funcionalitat>Sede temporal habilitada para la prensa</funcionalitat>
+    </sede>
+    <deporte id="TenisMesa">Tenis de mesa
+	    <sede id="sede">
+		    <nombre id="NombreSede">Gimnasio Metropolitano</nombre>
+		    <ciudad id="CiudadSede">Tokio</ciudad>
+		    <capacitat id="CapacidadSede">10.000 personas</capacitat>
+		    <acollits id="acollits">
+			    <nombre id="NombreDeporte">Tenis de mesa</nombre>
+			    <año id ="año">1988</año>
+			    <data id="inici" type="date" pattern="dd/mm/aaaa">26/07/2020</data>
+			    <data id="final" type="date" pattern="dd/mm/aaaa">06/08/2020</data>
+			    <categories id="categories">
+				    <nom id="NombreCategoria1">ABSOLUTO MASCULINO INDIVIDUAL</nom>
+				    <sexe id="genero">MASCULINO</sexe>
+				    <medalles id="medallas">
+					    <tipus id="TipusMedala">ORO</tipus>
+					    <pais id="PaisGuanyador">CHINA</pais>
+					    <atletes id="atletes">MA LONG</atletes>
+					    <data id="guanyar" type="date" pattern="dd/mm/aaaa">06/08/2020</data>
+					    <data id="hora" type="date" pattern="hh:mm.">22:00</data>
+					    <lloc id="lugar">Pista del Gimnasio Metropolitano</lloc>
+				    </medalles>
+			    </categories>
+		    </acollits>
+	    </sede>
+    </deporte>
+    <deporte id="Badminton">Badminton
+	    <sede id="sede">
+		    <nombre id="NombreSede">Plaza Deportiva Musashino Forest</nombre>
+		    <ciudad id="CiudadSede">Tokio</ciudad>
+		    <capacitat id="CapacidadSede">10.000 personas</capacitat>
+		    <acollits id="acollits">
+			    <nombre id="Badminton">Badminton</nombre>
+			    <año id ="año">1972</año>
+			    <data id="inici" type="date" pattern="dd/mm/aaaa">26/07/2020</data>
+			    <data id="final" type="date" pattern="dd/mm/aaaa">06/08/2020</data>
+			    <categories id="categories">
+				    <nom id="NombreCategoria1">ABSOLUTO MASCULINO INDIVIDUAL</nom>
+				    <sexe id="genero">MASCULINO</sexe>
+				    <medalles id="medallas">
+					    <tipus id="TipusMedala">ORO</tipus>
+					    <pais id="PaisGuanyador">CHINA</pais>
+					    <atletes id="atletes">MA LONG</atletes>
+					    <data id="guanyar" type="date" pattern="dd/mm/aaaa">06/08/2020</data>
+					    <data id="hora" type="date" pattern="hh:mm.">22:00</data>
+					    <lloc id="lugar">Pista del Gimnasio Metropolitano</lloc>
+				    </medalles>
+			    </categories>
+		    </acollits>
+	    </sede>
+    </deporte>
+    <deporte id="Badminton">Badminton
+	    <sede id="sede">
+		    <nombre id="NombreSede">Plaza Deportiva Musashino Forest</nombre>
+		    <ciudad id="CiudadSede">Tokio</ciudad>
+		    <capacitat id="CapacidadSede">10.000 personas</capacitat>
+		    <acollits id="acollits">
+			    <nombre id="Badminton">Badminton</nombre>
+			    <año id ="año">1972</año>
+			    </deporte>pattern="dd/mm/aaaa">26/07/2020</data>
+			    <data id="final" type="date" pattern="dd/mm/aaaa">06/08/2020</data>
+			    <categories id="categories">
+				    <nom id="NombreCategoria1"> MASCULINO,FEMENINO INDIVIDUAL</nom>
+				    <sexe id="genero">MASCULINO</sexe>
+				    <medalles id="medallas">
+					    <tipus id="TipusMedala">ORO</tipus>
+					    <pais id="PaisGuanyador">Tokyo</pais>
+					    <atletes id="atletes">Viktor Axelsen</atletes>
+					    <data id="guanyar" type="date" pattern="dd/mm/aaaa">04/01/2020</data>
+					    <data id="hora" type="date" pattern="hh:mm.">22:00</data>
+					    <lloc id="lugar">Pista del Gimnasio Metropolitano</lloc>
+				    </medalles>
+			    </categories>
+		    </acollits>
+        </sede>
+    </deporte>
+    <deporte id="skateboarding">skateboarding
+        <sede id="sede">
+            <nombre id="NomreSede">Parque Deportivo Urbano de Ariake</nombre>
+            <ciudad id="CiudadSede">Ariake</ciudad>
+            <capacitat id="CapacidadSede">7000</capacitat>
+            <acollits id="acollits">
+                <nombre id="NombreDeporte">skateboarding</nombre>
+                <any id ="año">2020</any>
+                <data id="inici" type="date" pattern="dd/mm/aaaa">25/07/2021</data>
+                <data id="final" type="date" pattern="dd/mm/aaaa">05/08/2021</data>
+                <categories id="categories">
+                    <nom id="NombreCategoria1">Calle</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">ORO</tipus>
+                        <pais id="PaisGuanyador"> Japón</pais>
+                        <atletes id="atletes">Yuto Horigome</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">25/07/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">13:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                    <nom id="NombreCategoria1">Calle</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">PLATA</tipus>
+                        <pais id="PaisGuanyador">Brasil</pais>
+                        <atletes id="atletes">Kelvin Hoefler</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">25/07/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">13:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                    <nom id="NombreCategoria1">Calle</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">BRONCE</tipus>
+                        <pais id="PaisGuanyador">Estados Unidos</pais>
+                        <atletes id="atletes">Jagger Eaton</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">25/07/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">13:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                    <nom id="NombreCategoria2">Parque</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">ORO</tipus>
+                        <pais id="PaisGuanyador"> Australia</pais>
+                        <atletes id="atletes">Keegan Palmer</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">05/08/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">18:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                    <nom id="NombreCategoria2">Parque</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">PLATA</tipus>
+                        <pais id="PaisGuanyador">Brasil</pais>
+                        <atletes id="atletes">Pedro Barros</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">05/08/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">18:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                    <nom id="NombreCategoria2">Parque</nom>
+                    <sexe id="genero">Masculino</sexe>
+                    <medalles id="medallas">
+                        <tipus id="TipusMedala">BRONCE</tipus>
+                        <pais id="PaisGuanyador">Estados Unidos</pais>
+                        <atletes id="atletes">Cory Juneau</atletes>
+                        <data id="guanyar" type="date" pattern="dd/mm/aaaa">05/08/2021</data>
+                        <data id="hora" type="date" pattern="hh:mm.">18:05</data>
+                        <lloc id="lugar"> Parque Deportivo Urbano de Ariake</lloc>
+                    </medalles>
+                </categories>
+            </acollits>
+        </sede>
+    </deporte>
+
+
+
